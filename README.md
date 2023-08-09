@@ -20,7 +20,7 @@ pip install pandas numpy scikit-learn
 
 1. Clone this repository to your local machine or download the script directly.
 
-2. Prepare your password dataset in a CSV format similar to the `selected.csv` file used in the script. The dataset should have a column named "password" containing the passwords and a column named "strength" with corresponding strength labels (0 for Weak, 1 for Medium, 2 for Strong).
+2. Prepare your password dataset in a CSV format similar to the `data.csv` file used in the script. The dataset should have a column named "password" containing the passwords and a column named "strength" with corresponding strength labels (0 for Weak, 1 for Medium, 2 for Strong).
 
 3. Update the script to point to your dataset CSV file:
 
