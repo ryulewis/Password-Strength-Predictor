@@ -47,10 +47,3 @@ pip install pandas numpy scikit-learn
 ## Disclaimer
 
 Keep in mind that password strength prediction is a complex task and may not be perfectly accurate in all cases. This script serves as a demonstration of using machine learning for password strength estimation and should not be used as the sole criteria for assessing password security.
-
-## Author
-
-This script was created by [Your Name]. If you have any questions or suggestions, feel free to contact me at [your@email.com].
-
----
-*Note: Replace `[your_dataset.csv]`, `[Your Name]`, and `[your@email.com]` with appropriate values.*
